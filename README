@@ -1,0 +1,7 @@
+Language Version Python 2.7
+
+To run the SIMPLESEM interpreter type the following in command line argument.
+python INTERPRETER.py 'filename'
+
+The INTERPRETER program takes a program file as
+ a command line argument: python INTERPRETER.py 'filename'
